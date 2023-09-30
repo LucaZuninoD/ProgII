@@ -1,2 +1,2 @@
 # ProgII
-Repositorio primeros pasos con Github
+Repositorio para entregas PROGII
